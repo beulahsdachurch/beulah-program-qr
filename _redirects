@@ -1,3 +1,6 @@
-#(Note: The 302 code signals a "Temporay Redirect," preventing phones from caching the old link forever.)
-/program 
+#Redirect the specific path (for the QR code)
+/program
+https://drive.google.com/file/d/18BHq6F5z6E0yni-iEM2hsda4FXsdvcdO/view?usp=drive_link 302
+
+#Redirect the main homepage (for easy testing)
 https://drive.google.com/file/d/18BHq6F5z6E0yni-iEM2hsda4FXsdvcdO/view?usp=drive_link 302
