@@ -1,5 +1,5 @@
 #Redirect the specific path (for the QR code)
-/program https://drive.google.com/file/d/1_D2MSLeRkr481Rfgy_435C7IThm2MiqX/view?usp=sharing 302
+/program https://drive.google.com/file/d/1u6h4DmlnG6-0OTCM4W4EPNxu02w_qzui/view?usp=sharing 302
 
 #Redirect the main homepage (for easy testing)
-/ https://drive.google.com/file/d/1_D2MSLeRkr481Rfgy_435C7IThm2MiqX/view?usp=sharing 302
+/ https://drive.google.com/file/d/1u6h4DmlnG6-0OTCM4W4EPNxu02w_qzui/view?usp=sharing 302
